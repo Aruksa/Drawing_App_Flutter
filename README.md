@@ -1,16 +1,11 @@
-# drawing_app
+# Drawing_App
+- A Flutter App with painting options ( implemented using GestureDetector). 
+- Painting options include custom circle, rectangle, curve, and straight line shapes.
+- Includes Undo, Redo, and Clear buttons and their implementations.
+- Includes an option for downloading the created Image.
 
-A new Flutter project.
+# UI ShowCase Youtube Video Link
+- https://www.youtube.com/watch?v=lyn51CXRcYk
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Given below is the screenshot of the UI layout on an Android Tablet Emulator 
+![Android_Tablet_View.PNG](..%2FDownloads%2FAndroid_Tablet_View.PNG)
