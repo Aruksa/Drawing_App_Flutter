@@ -5,7 +5,7 @@
 - Includes an option for downloading the created Image.
 
 # Screenshot of the UI layout on an Android Tablet Emulator
-![Android_Tablet_View.PNG](..%2FDownloads%2FAndroid_Tablet_View.PNG)
+![](lib/assets/android_tablet_view.png)
 
 # UI ShowCase Youtube Video Link
 - https://www.youtube.com/watch?v=lyn51CXRcYk
