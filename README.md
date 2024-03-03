@@ -4,8 +4,9 @@
 - Includes Undo, Redo, and Clear buttons and their implementations.
 - Includes an option for downloading the created Image.
 
+# Screenshot of the UI layout on an Android Tablet Emulator
+![Android_Tablet_View.PNG](..%2FDownloads%2FAndroid_Tablet_View.PNG)
+
 # UI ShowCase Youtube Video Link
 - https://www.youtube.com/watch?v=lyn51CXRcYk
 
-#Given below is the screenshot of the UI layout on an Android Tablet Emulator 
-![Android_Tablet_View.PNG](..%2FDownloads%2FAndroid_Tablet_View.PNG)
