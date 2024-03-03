@@ -1,0 +1,1 @@
+enum StrokeEnums {curve, line, rectangle, circle, triangle}
